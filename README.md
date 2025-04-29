@@ -1,2 +1,2 @@
-Kafka Cluster Monitor
+Kafka Cluster Monitoring
 ===
